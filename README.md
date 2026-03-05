@@ -325,4 +325,3 @@ This project uses the MovieLens dataset under the [GroupLens research license](h
 AI/ML Developer & Engineer
 
 - GitHub: [@Manirider](https://github.com/Manirider)
-- LinkedIn: [Manikanta Suryasai](https://linkedin.com/in/smanikanta)
